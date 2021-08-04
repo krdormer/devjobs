@@ -1,9 +1,10 @@
 .dj-header {
   position: absolute;
-  width: 1024px;
-  height: 161px;
+  width: 1440px;
+  height: 162px;
   left: 0;
-  top: 0;
+  top: -1px;
+  border-radius: 0 0 0 55px;
   background-color: #5964e0;
 }
 
@@ -13,5 +14,6 @@
   position: absolute;
   top: 44px;
   left: 165px;
+  font-size: 2rem;
   color: #ffffff;
 }

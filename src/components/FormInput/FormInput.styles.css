@@ -1,0 +1,65 @@
+.Form-Input {
+  position: absolute;
+  background-color: #ffffff;
+  width: 1110px;
+  height: 80px;
+  top: 120px;
+  bottom: 1420px;
+  left: 165px;
+  border-radius: 6px;
+}
+
+.keyword-search {
+  position: absolute;
+  width: 312px;
+  height: 24px;
+  top: 28px;
+  left: 32px;
+  opacity: 0.5;
+  border: none;
+}
+
+.keyword-divider {
+  position: absolute;
+  height: 80px;
+  top: 0;
+  left: 463px;
+  background: #6e8098;
+  opacity: 0.1;
+  border: 1px solid black;
+}
+
+.location-search {
+  position: absolute;
+  left: 487px;
+  top: 28px;
+  width: 169px;
+  height: 24px;
+  opacity: 0.5;
+  border: none;
+}
+
+.location-divider {
+  position: absolute;
+  top: 0;
+  left: 764px;
+  background: #6e8098;
+  border: 1px solid black;
+  opacity: 0.1;
+  height: 80px;
+}
+
+.checkbox-container {
+  display: inline-block;
+  position: absolute;
+  top: 28px;
+  left: 797px;
+}
+
+.search-submit {
+  position: absolute;
+  top: 16px;
+  left: 971px;
+  width: 123px;
+  height: 48px;
+}

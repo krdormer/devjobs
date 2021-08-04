@@ -4,7 +4,7 @@ import './Header.styles.css';
 const Header = () => {
   return (
     <header className="dj-header">
-      <h1 className="dj-logo">devjobs</h1>
+      <span className="dj-logo">devjobs</span>
       <div className="dark-light-switch"></div>
     </header>
   );
