@@ -1,0 +1,17 @@
+.dj-header {
+  position: absolute;
+  width: 1024px;
+  height: 161px;
+  left: 0;
+  top: 0;
+  background-color: #5964e0;
+}
+
+.dj-logo {
+  width: 115px;
+  height: 32px;
+  position: absolute;
+  top: 44px;
+  left: 165px;
+  color: #ffffff;
+}
